@@ -63,3 +63,4 @@ public class DeterministicSelect {
         return store;
     }
 }
+
