@@ -56,9 +56,6 @@ Solves to **Θ(n)** (Akra–Bazzi or substitution method).
 
 ---
 
-
----
-
 ## Submission
 This project is submitted as a GitHub repository link:  
 https://github.com/NurdauletAmangos/ADDD.git
