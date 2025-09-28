@@ -51,7 +51,7 @@ public class MergeSort {
 
         while (i <= mid) {
             buffer[k++] = arr[i++];
-            metrics.incArrayAccesses(2);
+            metrics.incArrayAccesses(2); 
         }
         while (j <= right) {
             buffer[k++] = arr[j++];
